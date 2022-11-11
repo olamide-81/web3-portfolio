@@ -1,6 +1,6 @@
 import React from 'react'
 import Linkedin from '../../public/images/Linkedin.png'
-import Github from '../../public/images/Github.png'
+import Github from '../../public/images/GitHub.png'
 import Twitter from '../../public/images/Twitter.png'
 import Instagram from '../../public/images/Instagram.png'
 import Image from "next/image";
