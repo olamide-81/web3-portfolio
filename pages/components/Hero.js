@@ -11,8 +11,7 @@ export default function Hero() {
     <div className="font-monolisa md:mx-20 mt-20">
       <h1 className="text-[#EEA47F] text-xs md:mx-14 mx-2">OLATUNDE OLAMIDE VICTOR</h1>
       <h1 className="md:text-4xl text-3xl text-[#EAEAEA] mt-4 md:mx-14 mx-2">
-        Software Engineer creating impactful Software solutions with an amazing
-        user experience
+        Software Engineer creating impactful Software solutions.
       </h1>
       <p className="text-sm text-[#AEAEAE] md:mx-14 mx-2 md:mt-6 mt-3">
         I’m Victor Olamide Olatunde, a Software Engineer based in Cyprus, with

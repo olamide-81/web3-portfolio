@@ -8,7 +8,7 @@ import Image from "next/image";
 export default function Footer() {
   return (
     <div className='bg-[#0D0D0D] p-4 mt-16 font-monolisa'>
-       <div className='md:flex justify-between items-start mt-6 md:mx-28'>
+       <div className='md:flex justify-between items-start mt-6 md:mx-28 mb-8'>
            <div>
                <h1 className='text-white text-xs'>Olatunde Olamide Victor</h1>
                <div className='flex space-x-4 items-center mt-4'>
@@ -20,10 +20,10 @@ export default function Footer() {
            </div>
            <div>
                <h1 className='text-white text-sm md:mt-0 mt-12'>Contact me</h1>
-               <div className='space-y-4 items-start mt-4'>
+               <div className='space-x-4 items-start mt-4 flex'>
                   <p className='text-white text-xs'>+90533778554</p>
                   <p  className='text-white text-xs'>hello@olamide.pro</p>
-                  <p  className='text-white text-xs'>Kyrenia, Cyprus</p>
+                  <p  className='text-white text-xs md:flex hidden'>Kyrenia, Cyprus</p>
                </div>
            </div>
        </div>
