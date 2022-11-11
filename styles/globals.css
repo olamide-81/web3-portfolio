@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    font-family: "GILROYSEMIBOLD";
+    src: url("../public/fonts/Gilroy/Gilroy-Semibold.ttf");
+  }
+  @font-face {
+    font-family: "GILROY";
+    src: url("../public/fonts/Gilroy/Gilroy-Medium.ttf");
+  }
+
+  @font-face {
+    font-family: "MONOLISA";
+    src: url("../public/fonts/MonoLisa/MonoLisa.ttf");
+  }

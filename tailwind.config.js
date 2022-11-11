@@ -6,7 +6,13 @@ module.exports = {
     './app/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        gilroy: ['GILROY', 'sans-serif'],
+        gilroysemibold: ['GILROYSEMIBOLD', 'sans-serif'],
+        monolisa: ['MONOLISA', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 }
