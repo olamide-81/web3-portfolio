@@ -17,8 +17,8 @@ export default function Navbar() {
   return (
     <div className='bg-[#111111] relative'>
            {/*Header Section i.e Navbar */}
-      <div className="flex justify-between items-center p-3 mx-4 opacity-95">
-        <Image src={Icon} alt="Icon" height={30} width={30}></Image>
+      <div className="flex justify-between items-center p-3 md:mx-4 mx-0 opacity-95">
+       <h1 className='font-monolisa text-white cursor-pointer'><Link href="/">{`MIDE</>`}</Link></h1>
         <div className="flex items-center">
           <ul className="md:flex justify-between items-center space-x-10 font-monolisa text-xs font-light text-[#EAEAEA] mx-2 hidden">
             <li className='hover:text-[#EEA47F] font-monolisa cursor-pointer'>
