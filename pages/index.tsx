@@ -22,7 +22,6 @@ const Home: NextPage = () => {
       <Head>
         <title>Olatunde Olamide Victor</title>
         <link rel="icon" href="/favicon.ico" />
-        <image href="/metatag.png"/>
         <script src="//code.tidio.co/lnfy8qtqktinrr8pwxozeejd7wx3epes.js" async></script>
       </Head>
      <Layout/>
